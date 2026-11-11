@@ -39,9 +39,7 @@ Most of my professional work lives in private repos, but here's what I've built:
 
 ### GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=aymenazougar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aymenazougar&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aymenazougar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-stats-fast.vercel.app/api/streak?username=aymenazougar&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ### ✍️ Random Dev Quote
 
